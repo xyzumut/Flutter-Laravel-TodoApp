@@ -5,9 +5,7 @@
 #### Görseller
 
 <div align="center" style="display:flex; flex-direction:column; flex-wrap:nowrap; width:800px;">
-    <img style="width:150px; background-color:red;" src="./readme/mobil_onizleme.gif" />
-    <div style='width:350px; display:flex; flex-direction:row;'>
-        <img style='width:50px' src="./readme/mobil1.jpg" />
-        <img style='width:50px' src="./readme/mobil2.jpg" />
-    </div>
+    <img style="width:200px;" src="./readme/mobil_onizleme.gif" />
+    <img style='width:200px' src="./readme/mobil1.jpg" />
+   <img style='width:200px' src="./readme/mobil2.jpg" />
 </div>
